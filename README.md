@@ -25,7 +25,7 @@ I'm a passionate developer based in **Crewe, Cheshire, UK**, building dynamic an
 I’m open to collaborating on **any exciting projects**! Whether it’s building APIs, crafting user-friendly front-ends, or exploring new technologies, I’d love to contribute. Feel free to reach out! 🤝
 
 ## 📫 Get in Touch
-- **Email**: [pouryaazari@hotmail.com](mailto:pouryaazari@hotmail.com)
+- [**Email**](mailto:pouryaazari@hotmail.com)
 - [**LinkedIn**](https://www.linkedin.com/in/pouryaazari/)
 
 Thanks for visiting my profile! Explore my repositories or get in touch to collaborate on something awesome! 😄
