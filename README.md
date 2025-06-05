@@ -26,6 +26,6 @@ I’m open to collaborating on **any exciting projects**! Whether it’s buildin
 
 ## 📫 Get in Touch
 - **Email**: [pouryaazari@hotmail.com](mailto:pouryaazari@hotmail.com)
-- **LinkedIn**: [Pourya Azari](https://www.linkedin.com/in/pouryaazari/)
+- [**LinkedIn**](https://www.linkedin.com/in/pouryaazari/)
 
 Thanks for visiting my profile! Explore my repositories or get in touch to collaborate on something awesome! 😄
